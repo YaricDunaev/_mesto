@@ -25,3 +25,8 @@
     line-height: 17px;
   }
 }
+.popup__button_inactive {
+  /* Submit Button */
+  opacity: 0.2;
+
+}
